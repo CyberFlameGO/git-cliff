@@ -476,6 +476,36 @@ fs.realpath@^1.0.0:
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
   integrity sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==
 
+git-cliff-darwin-arm64@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/git-cliff-darwin-arm64/-/git-cliff-darwin-arm64-1.1.2.tgz#a7c95bae2ce55e5443066ca3b3ffb77e633834d2"
+  integrity sha512-z+pSh6vLrtgoILlWzhisLHiLOuStabJh/ShgbBq0q3JRedUmxfg6WqCi+fHymMkA4AeoXOIS7GGfyV5m+sLQeQ==
+
+git-cliff-darwin-x64@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/git-cliff-darwin-x64/-/git-cliff-darwin-x64-1.1.2.tgz#beb6520b96e1dbe0c87e8b8aa1dfa85f6145e87a"
+  integrity sha512-dhizA8pGobcxxTS2YQDSs960zFqKfjprDsX/pq+MqgEc68e60B2WSRwFWXd+jK2x/7d7PbnMzlXDqszeDwBpRQ==
+
+git-cliff-linux-arm64@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/git-cliff-linux-arm64/-/git-cliff-linux-arm64-1.1.2.tgz#361c04af8b48d252eb53dcaba1caa029be3b01ec"
+  integrity sha512-4TYzQHO8H8FquSxoO/O2IfYN6ZLef4SM5PEDG93jeK958s+/FWnFok8evGSJdoTeyu2MXWdw4J40o1AKl0fcxw==
+
+git-cliff-linux-x64@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/git-cliff-linux-x64/-/git-cliff-linux-x64-1.1.2.tgz#ac330433500c254c8b3e347e9b5fc9315504e52a"
+  integrity sha512-vDLQEITUPHliKVWD69baH1djdsCPpSgUqqbNdX5Xb4bzM8vugIwfpV0XE/BIDC05VUJY2TPLMK1Zh//pdaOhfg==
+
+git-cliff-windows-arm64@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/git-cliff-windows-arm64/-/git-cliff-windows-arm64-1.1.2.tgz#54aa83f6963eee929c3073fddd1385b39259db2e"
+  integrity sha512-wl1S3IU5ewZ6UYzPFZbTZjeyf6/3VIAjDQ0hFWN+LQeo6ttj5RtVzifMRadoCmb2Jgi9RT8qR4plwyL+/NtHlQ==
+
+git-cliff-windows-x64@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/git-cliff-windows-x64/-/git-cliff-windows-x64-1.1.2.tgz#639f8de3ea905af30a9f65831b206c72da3b7c73"
+  integrity sha512-KszFq4Pre+TdJiPuGP+4t1DtXHcVaF9/dBSmwldxWvyAomzeX2wHalquh2iv6YgcFUQ4oe/DP1qiNhLa5xw5/Q==
+
 glob-parent@^5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
@@ -881,9 +911,9 @@ which@^2.0.1:
     isexe "^2.0.0"
 
 word-wrap@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
-  integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.5.tgz#d2c45c6dd4fbce621a66f136cbe328afd0410b34"
+  integrity sha512-BN22B5eaMMI9UMtjrGd5g5eCYPpCPDUy0FJXbYsaT5zYxjFOckS53SQDE3pWkVoWpHXVb3BrYcEN4Twa55B5cA==
 
 wrappy@1:
   version "1.0.2"
